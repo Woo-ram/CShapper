@@ -10,5 +10,8 @@ c:\users\kcci\source\repos\CodeReviewProgram\CodeReviewProgram\bin\Debug\CodeRev
 c:\users\kcci\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.exe
 c:\users\kcci\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.pdb
 c:\users\kcci\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Controls.InfoInputControl.resources
-C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Forms.Form1.resources
 C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Forms.InfoInput.resources
+C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Controls.CategoryViewControl.resources
+C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Controls.CommentViewControl.resources
+C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.Controls.VersionViewControl.resources
+C:\Users\KCCI\source\repos\CodeReviewProgram\CodeReviewProgram\obj\Debug\CodeReviewProgram.MainForm.resources
