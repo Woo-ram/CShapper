@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReviewProgram", "CodeReviewProgram\CodeReviewProgram.csproj", "{04F8180A-D231-4D4E-9B18-51470A1CEC9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReviewLib", "CodeReviewLib\CodeReviewLib.csproj", "{65B8FB6B-2496-451D-AFA6-005B0BDDE1DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04F8180A-D231-4D4E-9B18-51470A1CEC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04F8180A-D231-4D4E-9B18-51470A1CEC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04F8180A-D231-4D4E-9B18-51470A1CEC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B8FB6B-2496-451D-AFA6-005B0BDDE1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B8FB6B-2496-451D-AFA6-005B0BDDE1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B8FB6B-2496-451D-AFA6-005B0BDDE1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B8FB6B-2496-451D-AFA6-005B0BDDE1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
