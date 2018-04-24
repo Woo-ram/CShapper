@@ -1,0 +1,12 @@
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\CordReviewLib.dll.config
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\CordReviewLib.dll
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\CordReviewLib.pdb
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\EntityFramework.dll
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\EntityFramework.xml
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\obj\Debug\CordReviewLib.csprojResolveAssemblyReference.cache
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\obj\Debug\CordReviewLib.csproj.CoreCompileInputs.cache
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\obj\Debug\CordReviewLib.csproj.CopyComplete
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\obj\Debug\CordReviewLib.dll
+C:\Users\KCCI\Desktop\CodeReviewProgram\CordReviewLib\obj\Debug\CordReviewLib.pdb

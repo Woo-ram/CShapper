@@ -31,6 +31,8 @@
             this.CodeView = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.lblTItle = new System.Windows.Forms.Label();
+            this.btnHistory = new System.Windows.Forms.Button();
             this.CodeView.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -41,10 +43,10 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.CodeView.Controls.Add(this.tabPage1);
             this.CodeView.Controls.Add(this.tabPage2);
-            this.CodeView.Location = new System.Drawing.Point(0, 3);
+            this.CodeView.Location = new System.Drawing.Point(3, 71);
             this.CodeView.Name = "CodeView";
             this.CodeView.SelectedIndex = 0;
-            this.CodeView.Size = new System.Drawing.Size(388, 358);
+            this.CodeView.Size = new System.Drawing.Size(502, 418);
             this.CodeView.TabIndex = 0;
             // 
             // tabPage1
@@ -52,7 +54,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(380, 332);
+            this.tabPage1.Size = new System.Drawing.Size(494, 392);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -62,18 +64,40 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(192, 74);
+            this.tabPage2.Size = new System.Drawing.Size(494, 392);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // lblTItle
+            // 
+            this.lblTItle.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblTItle.Font = new System.Drawing.Font("Gulim", 25F);
+            this.lblTItle.Location = new System.Drawing.Point(3, 9);
+            this.lblTItle.Name = "lblTItle";
+            this.lblTItle.Size = new System.Drawing.Size(403, 50);
+            this.lblTItle.TabIndex = 1;
+            this.lblTItle.Text = "lblTItle";
+            this.lblTItle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // btnHistory
+            // 
+            this.btnHistory.Location = new System.Drawing.Point(412, 9);
+            this.btnHistory.Name = "btnHistory";
+            this.btnHistory.Size = new System.Drawing.Size(56, 50);
+            this.btnHistory.TabIndex = 2;
+            this.btnHistory.Text = "History";
+            this.btnHistory.UseVisualStyleBackColor = true;
             // 
             // VersionViewControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.btnHistory);
+            this.Controls.Add(this.lblTItle);
             this.Controls.Add(this.CodeView);
             this.Name = "VersionViewControl";
-            this.Size = new System.Drawing.Size(388, 361);
+            this.Size = new System.Drawing.Size(508, 492);
             this.CodeView.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -84,5 +108,7 @@
         private System.Windows.Forms.TabControl CodeView;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Label lblTItle;
+        private System.Windows.Forms.Button btnHistory;
     }
 }
