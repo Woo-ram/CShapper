@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CordReviewLib
+namespace CordReviewLib.Data
 {
-    public class Class1
+    class VersionData : EntityData<Version>
     {
     }
 }

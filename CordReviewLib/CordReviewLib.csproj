@@ -52,7 +52,6 @@
     <Compile Include="Category.cs">
       <DependentUpon>CordData.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="Code.cs">
       <DependentUpon>CordData.tt</DependentUpon>
     </Compile>
@@ -74,6 +73,13 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>CordData.edmx</DependentUpon>
     </Compile>
+    <Compile Include="DataRepository.cs" />
+    <Compile Include="Data\CodeData.cs" />
+    <Compile Include="Data\CommentData.cs" />
+    <Compile Include="Data\EntityData.cs" />
+    <Compile Include="Data\HistoryData.cs" />
+    <Compile Include="Data\UserData.cs" />
+    <Compile Include="Data\VersionData.cs" />
     <Compile Include="History.cs">
       <DependentUpon>CordData.tt</DependentUpon>
     </Compile>
@@ -112,6 +118,9 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
